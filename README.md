@@ -1,4 +1,5 @@
-# VLAD
+# VLAD 图像特征抽取
+
 ## Synopsis
 
 Python implementation of VLAD  for a CBIR system. 
